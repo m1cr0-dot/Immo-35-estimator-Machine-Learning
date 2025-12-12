@@ -33,7 +33,7 @@ Si vous souhaitez faire tourner le projet sur votre propre machine :
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/m1cr0-dot/Immo-35-estimator-Machine-Learning.git](https://github.com/m1cr0-dot/Immo-35-estimator-Machine-Learning.git)
+    git clone "https://github.com/m1cr0-dot/Immo-35-estimator-Machine-Learning.git"
     cd Immo-35-estimator-Machine-Learning
     ```
 
@@ -51,4 +51,4 @@ Une page web s'ouvrira automatiquement dans votre navigateur à l'adresse `http:
 
 ## 👤 Auteur
 
-Projet réalisé par **[Ton Prénom Nom]** dans le cadre d'un projet personnel de Data Science (Niveau M1).
+Projet réalisé par **Matteo CUNHA** dans le cadre d'un projet personnel de Data Science.
