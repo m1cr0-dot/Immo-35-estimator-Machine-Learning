@@ -33,8 +33,8 @@ Si vous souhaitez faire tourner le projet sur votre propre machine :
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone https://github.com/m1cr0-dot/Immo-35-estimator-Machine-Learning.git
-    cd immo-bretagne-estimator
+    git clone [https://github.com/m1cr0-dot/Immo-35-estimator-Machine-Learning.git](https://github.com/m1cr0-dot/Immo-35-estimator-Machine-Learning.git)
+    cd Immo-35-estimator-Machine-Learning
     ```
 
 2.  **Installer les dépendances :**
