@@ -8,7 +8,7 @@ Une application de Data Science interactive permettant d'estimer le prix de vent
 
 Ce projet a pour but de prédire la valeur vénale d'un bien immobilier en se basant sur ses caractéristiques intrinsèques (surface, pièces, terrain) et sa localisation géographique.
 
-**Choix du département** Ce projet privilégie l'utilisation de données réelles plutôt que synthétiques. Bien que j'aie initialement envisagé d'analyser Paris ou Bordeaux, les datasets disponibles (sur Kaggle) étaient majoritairement générés par IA. J'ai donc sélectionné ce département car il offrait un jeu de données authentique et exploitable.
+**Choix du département** -> ce projet privilégie l'utilisation de données réelles plutôt que synthétiques. Bien que j'aie initialement envisagé d'analyser Paris ou Bordeaux, les datasets disponibles (sur Kaggle) étaient majoritairement générés par IA. J'ai donc sélectionné ce département car il offrait un jeu de données authentique et exploitable.
 
 Le modèle a été entraîné sur des données réelles de transactions immobilières dans le département 35. Il intègre un feature engineering spatial calculant notamment la distance aux pôles économiques majeurs (Rennes et Saint-Malo).
 Lien dataset (kaggle): https://www.kaggle.com/datasets/cheneblanc/housing-prices-35-fr
