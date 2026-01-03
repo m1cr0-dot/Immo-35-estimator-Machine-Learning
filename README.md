@@ -2,7 +2,7 @@
 
 Une application de Data Science interactive permettant d'estimer le prix de vente de maisons et d'appartements en Ille-et-Vilaine grâce au Machine Learning.
 
-🔗 **[![Streamlit App](https://immo-35-estimator-ml.streamlit.app/)**
+🔗 **[![Streamlit App](https://immo-35-estimator-ml.streamlit.app/)]**
 
 <p align="center"> 
     •<a href="#français">🇫🇷 Lire en Français</a> <br>•
