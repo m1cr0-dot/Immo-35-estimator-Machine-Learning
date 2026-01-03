@@ -4,7 +4,7 @@ Une application de Data Science interactive permettant d'estimer le prix de vent
 
 🔗 **[![Streamlit App](https://immo-35-estimator-ml.streamlit.app/)]**
 
-<p align="center"> 
+<p align="right"> 
     •<a href="#français">🇫🇷 Lire en Français</a> <br>•
     <a href="#english">🇬🇧 Read in English</a>
 </p>
@@ -84,9 +84,9 @@ The model was trained on real estate transaction data from the department 35. It
 ### 🧠 Model Performance
 The prediction engine is built on an optimized **Random Forest Regressor**.
 
-* **R² Score:** ~0.75 (The model explains 75% of the price variance)
-* **Mean Absolute Percentage Error (MAPE):** ~26% (across all properties, including rural areas)
-* **Mean Absolute Error (MAE):** ~€36,000
+* **R² Score:** ~ 0.75 (The model explains 75% of the price variance)
+* **Mean Absolute Percentage Error (MAPE):** ~ 26% (across all properties, including rural areas)
+* **Mean Absolute Error (MAE):** ~ 36,000 €
 
 ### 🛠️ Technical Stack
 * **Language:** Python
