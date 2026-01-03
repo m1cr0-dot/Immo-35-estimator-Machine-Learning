@@ -2,7 +2,7 @@
 
 Une application de Data Science interactive permettant d'estimer le prix de vente de maisons et d'appartements en Ille-et-Vilaine grâce au Machine Learning.
 
-🔗 **[![Streamlit App](https://immo-35-estimator-ml.streamlit.app/)!]**
+🔗 **[![Streamlit App](https://immo-35-estimator-ml.streamlit.app/)]**
 
 <p align="center"> 
     •<a href="#français">🇫🇷 Lire en Français</a> <br>•
@@ -70,7 +70,7 @@ Projet réalisé par **Matteo CUNHA** dans le cadre d'un projet personnel de Dat
 
 An interactive Data Science application designed to estimate the selling price of houses and apartments in Ille-et-Vilaine (France) using Machine Learning.
 
-🔗 **[Streamlit App](https://immo-35-estimator-ml.streamlit.app/)!]**
+🔗 **[Streamlit App](https://immo-35-estimator-ml.streamlit.app/)]**
 
 ### 📋 Context & Objectives
 The goal of this project is to predict the **Market Value** of a property based on its intrinsic features (living area, number of rooms, land size) and its geographical location.
