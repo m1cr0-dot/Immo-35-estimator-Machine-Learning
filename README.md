@@ -4,7 +4,7 @@ Une application de Data Science interactive permettant d'estimer le prix de vent
 
 🔗 **[![Streamlit App](https://immo-35-estimator-ml.streamlit.app/)]**
 
-<p align="right"> 
+<p align="left"> 
     •<a href="#français">🇫🇷 Lire en Français</a> <br>•
     <a href="#english">🇬🇧 Read in English</a>
 </p>
