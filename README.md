@@ -46,5 +46,5 @@ Si vous souhaitez faire tourner le projet sur votre propre machine :
    streamlit run app.py
    ```
 
-# Author
+# Auteur
 Projet créé par **Mattéo Cunha**, dans le cadre d'un projet personnel de Data Science
